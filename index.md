@@ -17,7 +17,7 @@ As AI continues to permeate all aspects of technology, the prevalence of AI-gene
 
 ## News
 
-- **[Oct. 2024]** [HardRace](https://www.ouhznehc.com/assets/files/hardrace.pdf) was submitted to [OOPSLA'25](https://2025.splashcon.org/track/OOPSLA)
+- **[Oct. 2024]** [HardRace](https://arxiv.org/html/2410.18412v1) was submitted to [OOPSLA'25](https://2025.splashcon.org/track/OOPSLA)
 - **[Sep. 2024]** Established this brand-new personal website. 🎉🎉🎉
 - **[Jul. 2024]** Started my intership at [Yale Efficient Computing Lab](https://www.yecl.org/).
 

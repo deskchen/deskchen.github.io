@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a 4th-year undergraduate student from [Kuang Yaming Honors School](https://dii.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn). 
+I'm a 4th-year undergraduate student from [Kuang Yaming Honors School](https://dii.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn). 
 
 
 

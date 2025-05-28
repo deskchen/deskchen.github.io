@@ -2,20 +2,20 @@
 title: Zhuo Chen
 position: Undergraduate Student
 affiliation: Nanjing University
-# email: ouhznehc@smail.nju.edu.cn
+email: zhuochen0624@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Zhuo Chen
 description: Zhuo Chen's personal website.
-canonical: https://www.ouhznehc.com/
+canonical: https://zhuochen.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=fT5o2sIAAAAJ
 cv_link: assets/files/cv.pdf
-github_link: https://github.com/Ouhznehc
-email_link: mailto:ouhznehc@smail.nju.edu.cn
+github_link: https://github.com/ouhznehc
+email_link: mailto:zhuochen0624@gmail.com
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 

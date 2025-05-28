@@ -21,11 +21,18 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  - title: "Hopter: a Safe, Robust, and Responsive Embedded Operating System"
+    authors: Zhiyao Ma*, Guojun Chen, <strong>Zhuo Chen</strong>, Lin Zhong
+    conference_short: MobiSys'25
+    conference: ACM International Conference on Mobile Systems, Applications, and Services(MobiSys), 2025.
+    pdf: assets/files/mobisys25.pdf
+    code: https://github.com/hopter-project/hopter
+    image: assets/img/teaser_example.png
+
   - title: "HardRace: A Dynamic Data Race Monitor for Production Use"
     authors: Xundong Sun*, <strong>Zhuo Chen</strong>, Jingyang Shi, Yiyu Zhang, Peng Di, Xuandong Li, Zhiqiang Zuo
-    conference_short: Preprint
-    conference: arXiv Preprint
-    page: https://arxiv.org/abs/2410.18412
-    pdf: https://www.ouhznehc.com/assets/files/hardrace.pdf
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2410.18412, 2024.
+    pdf: https://arxiv.org/abs/2410.18412
     # notes: Oral Presentation
-    image: ./assets/img/hardrace.png
+    image: assets/img/teaser_example.png

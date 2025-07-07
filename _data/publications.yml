@@ -26,6 +26,7 @@ main:
     conference_short: MobiSys'25
     conference: ACM International Conference on Mobile Systems, Applications, and Services(MobiSys), 2025.
     pdf: assets/files/mobisys25.pdf
+    notes: Best Poster Award - Runner Up
     code: https://github.com/hopter-project/hopter
     image: assets/img/teaser_example.png
 

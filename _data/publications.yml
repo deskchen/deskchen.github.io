@@ -28,7 +28,7 @@ main:
     pdf: assets/files/mobisys25.pdf
     notes: Best Poster Award - Runner Up
     code: https://github.com/hopter-project/hopter
-    image: assets/img/teaser_example.png
+    image: assets/img/hopter.png
 
   - title: "HardRace: A Dynamic Data Race Monitor for Production Use"
     authors: Xundong Sun*, <strong>Zhuo Chen</strong>, Jingyang Shi, Yiyu Zhang, Peng Di, Xuandong Li, Zhiqiang Zuo
@@ -36,4 +36,4 @@ main:
     conference: arXiv preprint arXiv:2410.18412, 2024.
     pdf: https://arxiv.org/abs/2410.18412
     # notes: Oral Presentation
-    image: assets/img/teaser_example.png
+    image: assets/img/hardrace.png

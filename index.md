@@ -14,4 +14,4 @@ To this end, I have explored various approaches, including using language-based 
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
